@@ -165,6 +165,7 @@ However, the most important part of this project was the **defensive audit**. By
 
 **GitHub**: Thank you for following along! This lab is part of my ongoing commitment to mastering incident response and forensic analysis. I’m constantly adding new labs and documentation, check back soon for upcoming projects! Check out my existing works below: 
 * [**Incident Response with Splunk**](https://github.com/safayetchowdhury/Incident-Response-with-Splunk)
+* [**Defensive Architecture Using Snort IDS and SOAR**](https://github.com/safayetchowdhury/Defensive-Architecture-Using-Snort-IDS-and-SOAR)
 *  [**SQL-Based Security Incident Investigation**](https://github.com/safayetchowdhury/SQL-based-Security-Incident-Investigation)
 *  [**Wireshark-and-Nmap-Packet-Analysis-and-Network-Reconnaissance**](https://github.com/safayetchowdhury/Wireshark-and-Nmap-Packet-Analysis-and-Network-Reconnaissance)
 
