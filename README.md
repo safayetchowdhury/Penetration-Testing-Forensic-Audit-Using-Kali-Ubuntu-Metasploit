@@ -160,3 +160,14 @@ To ensure this lab follows industry standards, I have mapped my activities to th
 This lab successfully demonstrated how a single open port or a weak password can lead to a full system compromise. By gaining remote shell access to both targets, I proved the effectiveness of common attack vectors like password guessing and legacy service exploitation.
 
 However, the most important part of this project was the **defensive audit**. By analyzing the system logs, I was able to prove exactly when and how the attacker got in. This project highlights my ability to not only perform security testing but also to provide the forensic evidence needed to investigate and remediate a breach.
+
+### Connect & Explore
+
+**GitHub**: Thank you for following along! This lab is part of my ongoing commitment to mastering incident response and forensic analysis. I’m constantly adding new labs and documentation, check back soon for upcoming projects! Check out my existing works below: 
+* [**Incident Response with Splunk**](https://github.com/safayetchowdhury/Incident-Response-with-Splunk)
+*  [**SQL-Based Security Incident Investigation**](https://github.com/safayetchowdhury/SQL-based-Security-Incident-Investigation)
+*  [**Wireshark-and-Nmap-Packet-Analysis-and-Network-Reconnaissance**](https://github.com/safayetchowdhury/Wireshark-and-Nmap-Packet-Analysis-and-Network-Reconnaissance)
+
+
+**LinkedIn:** I’d love to **[connect](https://www.linkedin.com/in/chowdhurysafayet/)**! If you’re working in information security or are interested in these methodologies, let's discuss how we can improve security posture together.
+
